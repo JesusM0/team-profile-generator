@@ -20,7 +20,7 @@ In order for application to work, you must first install the pacakge. Use:
 With in the terminal for app to work properly
 
 ## Usage
-Use node index within the terminal to start questions for Team Profile Generation. Here is a short video (https://youtu.be/tgbO-Y0HNwI) on how to use the application: 
+Use node index within the terminal to start questions for Team Profile Generation. Here is a short video (https://youtu.be/e43J8Ss1PPc) on how to use the application: 
 
 ## Example of Generated HTML
 ![Example](/dist/index.html)
