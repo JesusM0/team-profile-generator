@@ -22,7 +22,7 @@ With in the terminal for app to work properly
 ## Usage
 Use node index within the terminal to start questions for Team Profile Generation. Here is a short video (https://youtu.be/tgbO-Y0HNwI) on how to use the application: 
 
-## Example of Generated ReadMe
+## Example of Generated HTML
 ![Example](/dist/index.html)
 
 ## Credits
