@@ -8,10 +8,7 @@ This app will create a Team Portfolio using the command line. The application us
 * [Description](#Description)
 * [Installation](#Installation)
 * [Usage](#Usage)
-* [Test](#Test)
 * [License](#License)
-* [Contributions](#Contributions)
-* [Contact Me](#ContactUs)
 
 ## Installation 
 In order for application to work, you must first install the pacakge. Use:
